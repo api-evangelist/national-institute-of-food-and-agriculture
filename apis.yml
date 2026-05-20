@@ -19,6 +19,10 @@ tags:
   - Research
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/NIFA
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/usda-nifa
   - type: Website
     url: https://www.nifa.usda.gov/
   - type: Portal
