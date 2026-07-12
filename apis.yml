@@ -19,6 +19,8 @@ tags:
   - Research
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-institute-of-food-and-agriculture-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/NIFA
   - type: LinkedIn
