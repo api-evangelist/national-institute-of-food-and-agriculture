@@ -36,7 +36,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Agriculture
-  - Federal-Government
+  - Federal Government
   - Food
   - Research
 tags_raw:
@@ -44,6 +44,7 @@ tags_raw:
   - Federal Government
   - Food
   - Research
+  - Federal-Government
 apis: []
 common:
   - type: DomainSecurity
